@@ -1,6 +1,6 @@
 # Hello there!  😄👋
 
-My name is Genemes Souza from Brazil. I've been working as Software Developer since 2012 and currently I'm Developer at CWi Software. I'm passionate about programming and education
+My name is Genemes Souza from Brazil. I've been working as Software Developer since 2012 and currently I'm Developer at GFT Group. I'm passionate about programming and education
 
 In my free time, I am with my family (👨‍👩‍👧‍👦) I like watching football (⚽️), watching movies (🎞️), reading books (📚), listening to music (🎵) and eventually I like playing football with friends (⚽️).
 
