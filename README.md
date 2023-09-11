@@ -1,8 +1,12 @@
 # Hello there!  😄👋
 
-My name is Genemes Souza from Brazil. I've been working as Software Developer since 2012 and currently I'm Developer at GFT Group. I'm passionate about programming and education
+My name is Genemes Souza, from Brazil. With more than 10 years of experience in developing highly scalable and available corporate solutions, I have worked significantly in the financial, healthcare, and telecommunications sectors.
 
-In my free time, I am with my family (👨‍👩‍👧‍👦) I like watching football (⚽️), watching movies (🎞️), reading books (📚), listening to music (🎵) and eventually I like playing football with friends (⚽️).
+In the financial sector, I played a crucial role in managing and processing transactions related to card receivables.
+In the healthcare field, I had the privilege of working at the largest company in South America, focusing on telemedicine solutions driven by artificial intelligence.
+In the telecommunications area, I focused my efforts on chip activations in the 5G network, contributing to the expansion of this next-generation technology.
+
+In my free time, I'm with my family (👨‍👩‍👧‍👦). I enjoy watching football (⚽️), watching movies (🎞️), reading books (📚), listening to music (🎵), and occasionally playing football with friends (⚽️).
 
 
 ## Here are some personal projects and open sorurces projects (🎨)
