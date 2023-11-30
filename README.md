@@ -6,20 +6,19 @@ In the financial sector, I played a crucial role in managing and processing tran
 In the healthcare field, I had the privilege of working at the largest company in South America, focusing on telemedicine solutions driven by artificial intelligence.
 In the telecommunications area, I focused my efforts on chip activations in the 5G network, contributing to the expansion of this next-generation technology.
 
-In my free time, I'm with my family (👨‍👩‍👧‍👦). I enjoy watching football (⚽️), watching movies (🎞️), reading books (📚), listening to music (🎵), and occasionally playing football with friends (⚽️).
+In my free time, I'm with my family (👨‍👩‍👧‍👦). I enjoy watching football (⚽️), watching movies (🎞️), reading books (📚), contributing to open source (💻), listening to music (🎵), and occasionally playing football with friends (⚽️).
 
 
 ## Here are some personal projects and open sorurces projects (🎨)
 
+- [quarkus](https://github.com/quarkusio/pt.quarkus.io) (♨️)
+	> Translation of Quarkus documentation into Brazilian Portuguese, recognizing Brazil as the second largest Quarkus community worldwide.
 - [star-wars](https://github.com/Genemes/star-wars) (🤖) 
 	> Project fully developed with Angular. We have a listing of all characters and images "when returned from the Google Images API.
 - [producer-direct-rabbitmq](https://github.com/Genemes/producer-direct-rabbitmq) (🐰) 
 	> Project developed with Spring Boot and RabbitMQ, to produce messages and send to direct exchange.
 - [consumer-direct-exchange](https://github.com/Genemes/topic-exchange-rabbitmq-spring-boot) (🐰) 
 	> Project developed with Spring Boot and RabbitMQ, to consume direct exchange messages, in case of failure the application will use the retry mechanism.
-- [wp-enss](https://github.com/Genemes/wp-enss) (🏫)
-	> Project developed with Ionic framework to consume data from the WP Rest API. The project is open source and was developed for a non-profit funschool
-
 
 ## You can find me here (🌎)
 ### @Genemes 
